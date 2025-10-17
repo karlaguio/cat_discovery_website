@@ -5,6 +5,7 @@ Submitted by: **Karla Guio Cortes**
 This web app: **An interactive discovery platform that fetches random cat breed information from The Cat API. Users can explore different breeds by viewing their images, origins, temperaments, and other characteristics. The application includes a filtering system where clicking on any displayed attribute adds it to a restriction list, ensuring those specific traits won't appear in subsequent searches.**
 
 Time spent: **6** hours spent in total
+Github: https://github.com/karlaguio/cat_discovery_website
 
 ## Required Features
 
